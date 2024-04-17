@@ -13,5 +13,9 @@ The signatures can't be verified with firebase-ios-sdk v10.24.0 using [akaffenbe
 ### `firebase-ios-sdk-xcframeworks`
 - Using [`akaffenberger/firebase-ios-sdk-xcframeworks`](https://github.com/akaffenberger/firebase-ios-sdk-xcframeworks), we can't build the app and have errors :thinking:
 
+https://github.com/ski-u/firebase-ios-sdk-signature/assets/37182704/1f944fc6-35e2-40a9-90e5-8d5d5a6d2936
+
 ### `firebase-ios-sdk`
 - Using [`firebase/firebase-ios-sdk`](https://github.com/firebase/firebase-ios-sdk) directly, we can build the app :ok:
+
+https://github.com/ski-u/firebase-ios-sdk-signature/assets/37182704/e21905e0-2383-445a-b6b8-26de2ec5d644
