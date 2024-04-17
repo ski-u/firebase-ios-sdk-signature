@@ -19,3 +19,17 @@ https://github.com/ski-u/firebase-ios-sdk-signature/assets/37182704/1f944fc6-35e
 - Using [`firebase/firebase-ios-sdk`](https://github.com/firebase/firebase-ios-sdk) directly, we can build the app :ok:
 
 https://github.com/ski-u/firebase-ios-sdk-signature/assets/37182704/e21905e0-2383-445a-b6b8-26de2ec5d644
+
+## Environment
+
+```
+❯ swift --version
+swift-driver version: 1.90.11.1 Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+Target: arm64-apple-macosx14.0
+```
+
+```
+❯ xcodebuild -version
+Xcode 15.3
+Build version 15E204a
+```
