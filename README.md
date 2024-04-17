@@ -6,7 +6,7 @@ The signatures can't be verified with firebase-ios-sdk v10.24.0 using [akaffenbe
 
 ## Directories
 - There is the same minimum project in both directories
-- All firebase package products has added to each target
+- All firebase package products has been added to each target
 
 <img width="1512" alt="Screenshot 2024-04-17 at 14 14 44" src="https://github.com/ski-u/firebase-ios-sdk-signature/assets/37182704/f83d2320-f838-4755-ab6f-411149e21e3e">
 
